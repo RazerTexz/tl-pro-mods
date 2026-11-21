@@ -1,0 +1,3 @@
+description = "Makes the Wand of Sparking craftable at a Work Bench (10 Wood, 3 Torches, 1 Fallen Star)."
+authors = ["RazerTexz"]
+changelogs = ["Fixed ingredients not being consumed"]
